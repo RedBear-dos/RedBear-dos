@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - Chat embeddings&switch package</td>
-            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a>nmap</td>
+            <td><a href="https://github.com/RedBear-dos/nmap">nmap</a>nmap</td>
         </tr>
         <tr>
             <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - Ai chat with ltrobot</td>
