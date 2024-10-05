@@ -1,7 +1,7 @@
 <div align="center" style="background-size: cover; background-position: center; padding: 20px;">
     <h3>Hi 👋, I'm RedBear</h3>
     <p align="center">
-        <img src="hacking.gif" width="50"/>
+        <img src="hacking.gif" width="100"/>
     </p>
     <p align="center">
         <a href="https://github.com/RedBear-dos/RedBear-dos/blob/main/README.md"><span>English</span></a>|
@@ -17,24 +17,24 @@
     <h4 align="left">私のオープンソースプロジェクト</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - Fast image hosting tool</td>
-            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - Simple cross-platform SSH link management tool</td>
+            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - ミニストームまたは DDO を実行する</td>
+            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - Wi-Fi ネットワークのセキュリティをテストするツール</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - RSS subscription function aggregation tool</td>
-            <td><a href="https://github.com/RedBear-dos/hashcat">hashcat</a> - Upload images from your clipboard obsidian plugin</td>
+            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - DBに関するソースドキュメントを公開しました</td>
+            <td><a href="https://github.com/RedBear-dos/hashcat">hashcat</a> - パスワードクラッキングツール</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - Generate qcow2 image from dockerfile</td>
-            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - WeChat chat robot uses various AI</td>
+            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - SSH、FTP、HTTP などでのブルート フォース パスワード</td>
+            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - パスワードを解読するための強力なツール (総当たり攻撃または辞書攻撃)</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - Chat embeddings&switch package</td>
-            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a>nmap</td>
+            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - 脆弱性を検出して悪用するためのフレームワーク</td>
+            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a> - ネットワーク内のシステム、デバイス、サービスを検出するネットワーク スキャン ツール</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - Ai chat with ltrobot</td>
-            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - Gnome-extension</td>
+            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - SQL インジェクションの脆弱性を検出して悪用する</td>
+            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - Web アプリケーションのセキュリティ テスト用のオープン ソース コード</td>
         </tr>
     </table>
 </div>
