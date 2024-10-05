@@ -1,7 +1,7 @@
 <div align="center" style="background-size: cover; background-position: center; padding: 20px;">
     <h3>Hi 👋, I'm RedBear</h3>
     <p align="center">
-        <img src="hacking.gif" width="100"/>
+        <img src="meme.gif" width="100"/>
     </p>
     <p align="center">
         <a href="https://github.com/RedBear-dos/RedBear-dos/blob/main/README_CN.md"><span>中文</span></a>|
