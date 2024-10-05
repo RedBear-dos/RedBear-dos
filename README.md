@@ -16,25 +16,24 @@
     <h4 align="left">My Open Source Projects</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">gopic</a> - Fast image hosting tool</td>
-            <td><a href="https://github.com/RedBear-dos/aircrack-">esh</a> - Simple cross-platform SSH link management tool</td>
+            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - Fast image hosting tool</td>
+            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - Simple cross-platform SSH link management tool</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/exploitdb-">rsm</a> - RSS subscription function aggregation tool</td>
-            <td><a href="https://github.com/RedBear-dos/hashcat">obsidian image plugin</a> - Upload images from your clipboard obsidian plugin</td>
+            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - RSS subscription function aggregation tool</td>
+            <td><a href="https://github.com/RedBear-dos/hashcat">hashcat</a> - Upload images from your clipboard obsidian plugin</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/hydra">qcow2file</a> - Generate qcow2 image from dockerfile</td>
-            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">ai with wechat</a> - WeChat chat robot uses various AI</td>
+            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - Generate qcow2 image from dockerfile</td>
+            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - WeChat chat robot uses various AI</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/metasploit-framework">chat-switch lib</a> - Chat embeddings&switch package</td>
-            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a> - Virsh go package</td>
+            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - Chat embeddings&switch package</td>
+            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a>nmap</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/sqlmap">ai chat WeChat applet</a> - Ai chat with ltrobot</td>
-            <td><a href="https://github.com/RedBear-dos/zaproxy-">gnome-extension-wakwaka</a> - Gnome-extension</td>
+            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - Ai chat with ltrobot</td>
+            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - Gnome-extension</td>
         </tr>
     </table>
 </div>
-
