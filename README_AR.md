@@ -17,24 +17,24 @@
     <h4 align="left">مشاريعي مفتوحة المصدر</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - Fast image hosting tool</td>
-            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - Simple cross-platform SSH link management tool</td>
+            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - تنفيذ عاصفة صغيرة أو دوس </td>
+            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - أداة لاختبار أمان شبكة Wi-Fi</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - RSS subscription function aggregation tool</td>
-            <td><a href="https://github.com/RedBear-dos/hashcat">hashcat</a> - Upload images from your clipboard obsidian plugin</td>
+            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - تم نشر الوثائق المصدرية حول قاعدة البيانات</td>
+            <td><a href="https://github.com/RedBear-dos/hashcat">hashcat</a> - أداة تكسير كلمة المرور</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - Generate qcow2 image from dockerfile</td>
-            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - WeChat chat robot uses various AI</td>
+            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - كلمات مرور القوة الغاشمة على SSH، FTP، HTTP، ....</td>
+            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - أداة قوية لكسر كلمات المرور (القوة الغاشمة أو هجوم القاموس)</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - Chat embeddings&switch package</td>
-            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a>nmap</td>
+            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - إطار عمل لاكتشاف واستغلال نقاط الضعف</td>
+            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a> - أداة فحص الشبكة لاكتشاف الأنظمة والأجهزة والخدمات في الشبكة</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - Ai chat with ltrobot</td>
-            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - Gnome-extension</td>
+            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - اكتشاف واستغلال نقاط الضعف في حقن SQLt</td>
+            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - كود مفتوح المصدر لاختبار الأمان لتطبيقات الويب</td>
         </tr>
     </table>
 </div>
