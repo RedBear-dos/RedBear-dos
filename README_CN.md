@@ -17,24 +17,24 @@
     <h4 align="left">我的开源项目</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - Fast image hosting tool</td>
-            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - Simple cross-platform SSH link management tool</td>
+            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - 執行迷你風暴或 ddos</td>
+            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - 測試Wi-Fi網路安全的工具</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - RSS subscription function aggregation tool</td>
-            <td><a href="https://github.com/RedBear-dos/hashcat">hashcat</a> - Upload images from your clipboard obsidian plugin</td>
+            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - DB的來源檔案已公開</td>
+            <td><a href="https://github.com/RedBear-dos/hashcat">hashcat</a> - 密碼破解工具</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - Generate qcow2 image from dockerfile</td>
-            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - WeChat chat robot uses various AI</td>
+            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - SSH、FTP、HTTP 上的暴力破解密碼...</td>
+            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - 破解密碼的強大工具（暴力或字典攻擊）</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - Chat embeddings&switch package</td>
-            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a>nmap</td>
+            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - 偵測並利用漏洞的框架</td>
+            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a> - 網路掃描工具，用於發現網路中的系統、設備和服務</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - Ai chat with ltrobot</td>
-            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - Gnome-extension</td>
+            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - 偵測並利用 SQL 注入漏洞</td>
+            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - Web應用程式安全測試的開源程式碼</td>
         </tr>
     </table>
 </div>
