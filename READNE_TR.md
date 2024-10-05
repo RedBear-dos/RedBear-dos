@@ -1,7 +1,7 @@
 <div align="center" style="background-size: cover; background-position: center; padding: 20px;">
     <h3>Hi 👋, I'm RedBear</h3>
     <p align="center">
-        <img src="hacking.gif" width="50"/>
+        <img src="hacking.gif" width="100"/>
     </p>
     <p align="center">
         <a href="https://github.com/RedBear-dos/RedBear-dos/blob/main/README.md"><span>English</span></a>|
@@ -17,24 +17,24 @@
     <h4 align="left">Açık kaynak projelerim</h4>
     <table align="center">
         <tr>
-            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - Fast image hosting tool</td>
-            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - Simple cross-platform SSH link management tool</td>
+            <td><a href="https://github.com/RedBear-dos/apache-jmeter-5">apache jmeter</a> - Mini tupany ýa-da ddos ​​ýerine ýetiriň</td>
+            <td><a href="https://github.com/RedBear-dos/aircrack-">aircrack</a> - Wi-Fi torunyň howpsuzlygyny barlamak üçin gural</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - RSS subscription function aggregation tool</td>
+            <td><a href="https://github.com/RedBear-dos/exploitdb-">exploitdb</a> - Paroly döwmek üçin gural</td>
             <td><a href="https://github.com/RedBear-dos/hashcat">hashcat</a> - Upload images from your clipboard obsidian plugin</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - Generate qcow2 image from dockerfile</td>
-            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - WeChat chat robot uses various AI</td>
+            <td><a href="https://github.com/RedBear-dos/hydra">hydra</a> - SSH, FTP, HTTP, ....</td>
+            <td><a href="https://github.com/RedBear-dos/john-bleeding-jumbo">john-bleeding-jumbo</a> - Parollary döwmek üçin güýçli gural (zalym güýç ýa-da sözlük hüjümi)</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - Chat embeddings&switch package</td>
-            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a>nmap</td>
+            <td><a href="https://github.com/RedBear-dos/metasploit-framework">metasploit-framework</a> - Gowşak taraplary ýüze çykarmak we peýdalanmak üçin çarçuwalar</td>
+            <td><a href="https://github.com/RedBear-dos/nmap">govirsh</a> - Torda ulgamlary, enjamlary we hyzmatlary tapmak üçin tor skaner guraly</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - Ai chat with ltrobot</td>
-            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - Gnome-extension</td>
+            <td><a href="https://github.com/RedBear-dos/sqlmap">sqlmap</a> - SQL sanjym gowşaklyklaryny ýüze çykaryň we ulanyň</td>
+            <td><a href="https://github.com/RedBear-dos/zaproxy-">zaproxy</a> - Web programmalarynyň howpsuzlygyny barlamak üçin açyk çeşme kody</td>
         </tr>
     </table>
 </div>
