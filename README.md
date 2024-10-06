@@ -1,5 +1,5 @@
 <div align="center" style="background-size: cover; background-position: center; padding: 20px;">
-    <h3>Hi 👋, I'm Dong </h3>
+    <h3>Hi 👋, I'm Red Bear</h3>
     <p align="center">
         <img src="meme.gif" width="100"/>
     </p>
